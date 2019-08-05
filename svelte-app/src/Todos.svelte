@@ -1,7 +1,7 @@
 <script>
   import TodoItem from "./TodoItem.svelte";
 
-  let newTodoTitle="",
+  let newTodoTitle="";
   let currentFilter="all";
   let nextId=4;
 
